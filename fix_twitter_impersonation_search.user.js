@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  Fixes Twitter user search so even a "unsearchable" user will show up if their name is put in correctly
 // @author       Invertex
+// @updateURL    https://github.com/Invertex/Fix-Twitter-Report-Impersonation-User-Search/raw/main/fix_twitter_impersonation_search.user.js
+// @downloadURL  https://github.com/Invertex/Fix-Twitter-Report-Impersonation-User-Search/raw/main/fix_twitter_impersonation_search.user.js
 // @match        https://twitter.com/*
 // @match        https://*.twitter.com/*
 // @match        https://x.com/*
