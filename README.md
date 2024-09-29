@@ -6,4 +6,5 @@ To install this User Script, you need a User Script manager installed in your br
 [Tamper Monkey](https://www.tampermonkey.net/) (PREFERRED) or [Violent Monkey](https://github.com/violentmonkey/violentmonkey).<br/>
 Install one to the browser of your choice.
 
-Then click [this link](https://github.com/Invertex/Fix-Twitter-Report-Impersonation-User-Search/raw/refs/heads/main/fix_twitter_impersonation_search.user.js), and your User Script manager should take you to an install page. (Otherwise, visit the RAW of `fix_twitter_impersonation_search.user.js`)
+Then click [this link](https://github.com/Invertex/Fix-Twitter-Report-Impersonation-User-Search/raw/refs/heads/main/fix_twitter_impersonation_search.user.js), and your User Script manager should take you to an install page. <br/>
+(Otherwise, visit the RAW of `fix_twitter_impersonation_search.user.js`)
